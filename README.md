@@ -8,3 +8,6 @@ https://github.com/pithos/pithos
 
 And the homepage here: 
 https://pithos.github.io/
+
+The Amphora web client beta is here:
+https://amphora-web.herokuapp.com/
